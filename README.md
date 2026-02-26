@@ -153,5 +153,6 @@ Unless otherwise noted, this software – the LanguageTool core – is distribut
 After installing LanguageTool, you can verify it is working by testing a simple incorrect sentence.
 Example:
 "This are bad sentence."
+
 LanguageTool should suggest:
 "This is a bad sentence."
